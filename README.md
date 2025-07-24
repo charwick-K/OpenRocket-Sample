@@ -50,14 +50,6 @@ Need release info? Visit the [GitHub Releases](https://github.com/openrocket/ope
 
 ---
 
-## 🗣️ Translation
-
-Translator: **KONDRU CHARWICK HAMESH** 🇮🇳
-
-Help us bring OpenRocket to more languages — check out [how to contribute](https://openrocket.info/contribute.html#translation).
-
----
-
 ## 📖 Documentation
 
 Explore our full documentation on [ReadTheDocs](https://openrocket.readthedocs.io/en/latest/). Learn everything from component modeling to advanced simulation and export workflows.
